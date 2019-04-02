@@ -1,1 +1,22 @@
-# estudo-digerido2
+# Repositórios para desenvolvimento de estudo dirigido - Programação
+
+- [X] Exercício 1
+- [X] Exercício 2
+- [X] Exercício 3
+- [X] Exercício 4
+- [X] Exercício 5
+- [X] Exercício 6
+- [X] Exercício 7
+- [X] Exercício 8
+- [X] Exercício 9
+- [X] Exercício 10
+- [X] Exercício 11
+- [X] Exercício 12
+- [X] Exercício 13
+- [X] Exercício 14
+- [X] Exercício 15
+- [X] Exercício 16
+- [X] Exercício 17
+- [X] Exercício 18
+- [X] Exercício 19
+- [X] Exercício 20
